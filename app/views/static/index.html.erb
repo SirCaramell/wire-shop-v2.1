@@ -1,0 +1,9 @@
+<h1>Strona główna</h1>
+
+<u1>
+    <% @customers.each do |customer| %>
+    <%= link_to customer do %>
+    <li><%= customer.first_name %> <%= customer.last_name %> <%= customer.customer_id %></li>
+    <% end %>
+    <% end %>
+</u1>

@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_id: 1
+  brutto_price: 1.5
+  netto_price: 1.5
+  category: MyString
+  ean: MyString
+  image: MyString
+  product_name: MyString
+  quantity_in_stock: 1
+  text_description: MyString
+
+two:
+  product_id: 1
+  brutto_price: 1.5
+  netto_price: 1.5
+  category: MyString
+  ean: MyString
+  image: MyString
+  product_name: MyString
+  quantity_in_stock: 1
+  text_description: MyString

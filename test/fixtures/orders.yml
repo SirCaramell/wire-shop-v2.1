@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  oder_r_id: 1
+  order_date: 2017-11-22
+  order_quantity: 1
+  shipment_date: 2017-11-22
+  status: MyString
+
+two:
+  oder_r_id: 1
+  order_date: 2017-11-22
+  order_quantity: 1
+  shipment_date: 2017-11-22
+  status: MyString
